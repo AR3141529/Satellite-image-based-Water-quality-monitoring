@@ -1,6 +1,6 @@
 # Satellite-image-based-Water-quality-modeling-for-River-Yamuna
-This is a collaboration based project, the main contributors for this specific project is, Ankit Roy, Anand Narayan Dhar Dubey and 
-our guides for this project is Prof. Kaushik Jana ( from Indian Statistical Institute, Delhi ) and Prof. Garima Rani ( from Indian Institute of Technology, Delhi ).Their guidance is what shaped this project and made this paper possible.
+This is a collaboration based project, the main contributors for this specific project is, Ankit Roy, Anand Narayan Dhar Dubey.
+I would also like to thank our guides for this project is Prof. Kaushik Jana ( from Indian Statistical Institute, Delhi ) and Prof. Garima Rani ( from Indian Institute of Technology, Delhi ).Their guidance and contribution is what shaped this project and made this research paper possible.
 
 This repository is for the codes, resources , datasets and other necessary things used for building the River water quality monitoring system for Yamuna River. Here, the final dataset is the dataset that we used to train our models that we compared in our paper. Datasets were built using existing publicly available datasets and processed by our team. 
 
