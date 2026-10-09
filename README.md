@@ -1,4 +1,4 @@
-# Satellite-image-based-Water-quality-modeling-for-River-Yamuna
+# Satellite-image-based-Water-quality-monitoring-for-River-Yamuna
 This is a collaboration based project, the main contributors for this specific project is, Ankit Roy, Anand Narayan Dhar Dubey.
 I would also like to thank our guides for this project is Prof. Kaushik Jana ( from Indian Statistical Institute, Delhi ) and Prof. Garima Rani ( from Indian Institute of Technology, Delhi ).Their guidance and contribution is what shaped this project and made this research paper possible.
 
