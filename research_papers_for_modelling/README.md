@@ -1,3 +1,3 @@
-For this specific folder, I am the contributor and this folder consists of the research papers that I used to build the Machine Learning
-models that were used to compare in the final research paper. This folder consists of the papers from which I took ideas that in the end
-helped me build the final models that was used on the final dataset.
+For this specific folder, I am the contributor and this folder consists of the research papers that I used to build the Machine Learning models that were used to compare in the final research paper. This folder consists of the papers from which I took ideas that helped me build the final models that was used on the final dataset.
+I'm truly grateful to my guides , Prof. Kaushik Jana. ( from Indian Statistical Institute , Delhi ) and Prof. Garima Rani ( from Indian Institute of Technology , Delhi) for guiding me on this project.
+Their invaluable guidance , advice and help is what shaped this project and made this possible.
